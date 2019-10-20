@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124.452" height="247.487" viewBox="0 0 124.452 247.487">
+  <g id="strelki" transform="translate(-647.255 -243.255)">
+    <path id="Path_168" data-name="Path 168" d="M0,0H174" transform="translate(770.999 490.036) rotate(-135)" fill="none" stroke="#ff3a55" stroke-linecap="round" stroke-width="1" stroke-dasharray="3 5"/>
+    <path id="Path_169" data-name="Path 169" d="M174,0V174" transform="translate(771 490.036) rotate(-135)" fill="none" stroke="#00c873" stroke-linecap="round" stroke-width="1" stroke-dasharray="3 5"/>
+    <path id="strelka_up" d="M606.391,372.916a.989.989,0,0,0,.319-.212h0a1.009,1.009,0,0,0,.29-.7v-5a1,1,0,0,0-2,0v2.584l-6.3-6.3a1,1,0,0,0-1.483,1.342.935.935,0,0,0,.07.07l6.3,6.3H601a1,1,0,0,0,0,2h4.99A1,1,0,0,0,606.391,372.916Z" transform="translate(306.041 924) rotate(-90)" fill="#00c873"/>
+    <path id="strelka_down" d="M606.391,372.916a.989.989,0,0,0,.319-.212h0a1.009,1.009,0,0,0,.29-.7v-5a1,1,0,0,0-2,0v2.584l-6.3-6.3a1,1,0,0,0-1.483,1.342.935.935,0,0,0,.07.07l6.3,6.3H601a1,1,0,0,0,0,2h4.99A1,1,0,0,0,606.391,372.916Z" transform="translate(72.041 44.041)" fill="#ff3a55"/>
+  </g>
+</svg>
