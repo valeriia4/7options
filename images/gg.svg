@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="851.786" height="289" viewBox="0 0 851.786 289">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_308" data-name="Rectangle 308" width="703" height="289" transform="translate(96 291)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff700" stop-opacity="0.149"/>
+      <stop offset="1" stop-color="#fff700" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_526" data-name="Group 526" transform="translate(-95.5 -291)">
+    <line id="Line_21" data-name="Line 21" x2="851.786" transform="translate(95.5 310.218)" fill="none" stroke="#fff700" stroke-width="1" opacity="0.3"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="5" cy="5" r="5" transform="translate(793.688 305.891)" fill="#fff700"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="grafik" transform="translate(95.5 59.5)">
+        <path id="Path_30" data-name="Path 30" d="M-503,1913.734l50.547,65.87,16.046-7.058,13.639,7.058,16.849-29.8,13.64,14.115,15.244,4.705,16.047,17.252,16.849-21.957,14.442-44.7,15.244-21.172,14.442,21.172,15.244,44.7,14.442-18.036,14.442-7.058,19.256-25.093,15.244-31.367,13.64,24.309L-192.5,1989.8l16.047-43.914,15.244-7.058,14.442-32.151,13.64,26.662,16.849-30.583,15.244,16.468,12.837,22.741,16.849-18.036,13.64,9.41,16.849-35.288L-25.616,1851l13.64,62.734,15.244-27.446,16.047,37.64,14.442-21.173L49,1898.05l29.5,25.878,13.572-20.512,13.428,16.143,13-42.571,10,12,14-34.143,27.715,37.714,17.285-43.048,12.572-8.1v269.857l-703.072.072Z" transform="translate(503 -1590.344)" fill="url(#linear-gradient)"/>
+        <path id="Path_31" data-name="Path 31" d="M-503,1914.538l50.509,66.112,16.035-7.084,13.629,7.084,16.836-29.908,13.629,14.167,15.233,4.722,16.035,17.315,16.836-22.037,14.431-44.861,15.233-21.25,14.431,21.25,15.233,44.861,14.431-18.1,14.431-7.083,19.241-25.185,15.233-31.482,13.629,24.4,15.233,83.427,16.035-44.074,15.233-7.083,14.431-32.269,13.629,26.76,16.836-30.695,15.233,16.528,12.828,22.824,16.836-18.1,13.629,9.445L-41.2,1898.8l15.233-48.8,13.629,64.538,15.233-27.547,16.035,37.778,14.431-21.25L48.59,1898.8,79,1924.769l13-21.25,13.5,16.528,13-43.547,10,13,14-35,28,38.5,17.334-43L200,1841.5" transform="translate(503 -1590.5)" fill="none" stroke="#fff700" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

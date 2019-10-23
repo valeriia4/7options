@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="919" height="396" viewBox="0 0 919 396">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_308" data-name="Rectangle 308" width="577" height="289" transform="translate(96 291)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff700" stop-opacity="0.149"/>
+      <stop offset="1" stop-color="#fff700" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_524" data-name="Group 524" transform="translate(-82 -207)">
+    <line id="Line_40" data-name="Line 40" y2="364.5" transform="translate(798.395 216.5)" fill="none" stroke="#00c873" stroke-width="2"/>
+    <path id="Path_222" data-name="Path 222" d="M0,0H851.786" transform="translate(95.5 390.218)" fill="none" stroke="#fff700" stroke-width="1" opacity="0.3"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="grafik" transform="translate(95.5 59.5)">
+        <path id="Path_30" data-name="Path 30" d="M-503,1913.734l50.547,65.87,16.046-7.058,13.639,7.058,16.849-29.8,13.64,14.115,15.244,4.705,16.047,17.252,16.849-21.957,14.442-44.7,15.244-21.172,14.442,21.172,15.244,44.7,14.442-18.036,14.442-7.058,19.256-25.093,15.244-31.367,13.64,24.309L-192.5,1989.8l16.047-43.914,15.244-7.058,14.442-32.151,13.64,26.662,16.849-30.583,15.244,16.468,12.837,22.741,16.849-18.036,13.64,9.41,16.849-35.288L-25.616,1851l13.64,62.734,15.244-27.446,16.047,37.64,14.442-21.173L49,1898.05l29.5,25.878,13.572-20.512,13.428,16.143,13-42.571,10,12,14-34.143,27.715,37.714,17.285-43.048,12.572-8.1v269.857l-703.072.072Z" transform="translate(503 -1590.344)" fill="url(#linear-gradient)"/>
+        <path id="Path_31" data-name="Path 31" d="M-503,1914.538l50.509,66.112,16.035-7.084,13.629,7.084,16.836-29.908,13.629,14.167,15.233,4.722,16.035,17.315,16.836-22.037,14.431-44.861,15.233-21.25,14.431,21.25,15.233,44.861,14.431-18.1,14.431-7.083,19.241-25.185,15.233-31.482,13.629,24.4,15.233,83.427,16.035-44.074,15.233-7.083,14.431-32.269,13.629,26.76,16.836-30.695,15.233,16.528,12.828,22.824,16.836-18.1,13.629,9.445L-41.2,1898.8l15.233-48.8,13.629,64.538,15.233-27.547,16.035,37.778,14.431-21.25L48.59,1898.8,79,1924.769l13-21.25,13.5,16.528,13-43.547,10,13,14-35,28,38.5,17.334-43L200,1841.5" transform="translate(503 -1590.5)" fill="none" stroke="#fff700" stroke-width="1"/>
+      </g>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="5" cy="5" r="5" transform="translate(667.688 384.891)" fill="#fff700"/>
+    <line id="Line_18" data-name="Line 18" y2="364.5" transform="translate(672.999 216.5)" fill="none" stroke="#fff700" stroke-width="1" opacity="0.3"/>
+    <text id="_1_11200" data-name="1,11200" transform="translate(958 465)" fill="#828ea0" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1,11200</tspan></text>
+    <text id="_1_11300" data-name="1,11300" transform="translate(957.668 340.625)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1,11300</tspan></text>
+    <text id="_1_11400" data-name="1,11400" transform="translate(958 218)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1,11400</tspan></text>
+    <line id="Line_14" data-name="Line 14" x2="851.294" transform="translate(95.993 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.5"/>
+    <line id="Line_20" data-name="Line 20" y2="364.5" transform="translate(252.499 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <line id="Line_15" data-name="Line 15" x2="851.294" transform="translate(95.993 337.868)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.5"/>
+    <line id="Line_16" data-name="Line 16" x2="851.294" transform="translate(95.993 461.613)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.5"/>
+    <line id="Line_19" data-name="Line 19" y2="364.5" transform="translate(408.5 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <line id="Line_22" data-name="Line 22" y2="364.5" transform="translate(876.5 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <line id="Line_29" data-name="Line 29" y2="364.5" transform="translate(564.499 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <line id="Line_39" data-name="Line 39" y2="364.5" transform="translate(720.499 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <line id="Line_30" data-name="Line 30" y2="364.5" transform="translate(95.5 216.5)" fill="none" stroke="#2d3543" stroke-width="1" opacity="0.4"/>
+    <rect id="Rectangle_121" data-name="Rectangle 121" width="54" height="20" rx="10" transform="translate(947 380)" fill="#fff700"/>
+    <text id="_1_11273" data-name="1,11273" transform="translate(991 394)" fill="#101622" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-37.222" y="0">1,11273</tspan></text>
+    <text id="_1_11100" data-name="1,11100" transform="translate(957.668 583.182)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1,11100</tspan></text>
+    <text id="_18:18" data-name="18:18" transform="translate(876.246 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:18</tspan></text>
+    <text id="_18:16" data-name="18:16" transform="translate(564.216 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:16</tspan></text>
+    <text id="_18:17" data-name="18:17" transform="translate(720.216 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:17</tspan></text>
+    <text id="_18:15" data-name="18:15" transform="translate(409 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:15</tspan></text>
+    <text id="_18:14" data-name="18:14" transform="translate(253 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:14</tspan></text>
+    <text id="_18:13" data-name="18:13" transform="translate(94 600)" fill="#828ea0" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-11.865" y="0">18:13</tspan></text>
+    <line id="Line_17" data-name="Line 17" x2="851.294" transform="translate(95.993 580.5)" fill="none" stroke="#272f3d" stroke-width="1" opacity="0.5"/>
+    <path id="Path_223" data-name="Path 223" d="M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(668 576)" fill="#fff700"/>
+  </g>
+</svg>

@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="stylesheet" href="css/app.min.css">
-<link rel="stylesheet" href="scss/libs/animate.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 <link rel="stylesheet" href="scss/libs/slick.css">
 <link rel="stylesheet" href="scss/libs/slick-theme.css">
 <title>ba-flex-starter</title>
@@ -35,7 +35,7 @@
 </div>
 <div class="slide-images">
 <div class="box bounce-1"><img src="images/desk.png" alt="desktop" class="slide-images__desk"></div>
-<div class="slide-images__mob"><img src="images/mob.png" alt="mobile" ></div>
+<img src="images/mob.png" alt="mobile" class="slide-images__mob"> 
 <img src="images/circle.png" alt="circle" class="slide-images__circle">
 <img src="images/shadowbig.svg" alt="shadow" class="zoom">
 <img src="images/shadowbig.svg" alt="shadow" class="slide-images__shadow">
@@ -46,16 +46,29 @@
 <h2 class="slide__title--next">Taste the <span>victory</span></h2>
 <div class="slide-content">
 <div>
-<img src="images/Chart.svg" alt="chart" class="slide-content__chart">
+<img src="images/Chart.svg" alt="chart" class="slide-content__chart" id="image">
 <div class="slide-content__strelki"></div>
 </div>
 <div class="slide-content-text">
-<p class="slide-content-text__subtitle">It's really simple!</p>
+<div class="cont"><p class="slide-content-text__subtitle">It's really simple!</p>
 <p class="slide-content-text__about">Where will the chart move next? Up or Down?</p>
-<button class="slide-content-text__button">Up</button>
+<button class="slide-content-text__button" onClick="imgsrc();">Up</button>
 <p class="slide-content-text__rating">42%<span>most opinion</span><span>68%</span></p>
 <img src="images/rating.svg" alt="rating">
-<button class="slide-content-text__button slide-content-text__button--red">Down</button>
+<button class="slide-content-text__btn--red" onClick="imgchart();">Down</button>
+</div>
+<div class="slide-content-text-hide animated fadeInLeft">
+<p class="slide-content-text-hide__price">188,00$</p>
+<p class="slide-content-text-hide__income">your income</p>
+<p class="slide-content-text-hide__predict">Congratulations your predict was correct!</p>
+<button class="slide-content-text-hide__button">Start Earning</button>
+</div>
+<div class="slide-content-text-down animated fadeInLeft">
+<p class="slide-content-text-down__price">0,00$</p>
+<p class="slide-content-text-down__income">your income</p>
+<p class="slide-content-text-down__predict">Unfortunately your predict was wrong!</p>
+<button class="slide-content-text-hide__button">Try Again</button>
+</div>
 </div>
 </div>
 </div>
