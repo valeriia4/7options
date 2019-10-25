@@ -6,9 +6,11 @@
   "use strict";
 
   $('.main-slider').slick({
-    slidesToShow: 1,
+    slidesToScroll: 1,
     arrows: false,
-    dots: true
+    dots: true,
+    vertical: true,
+    verticalSwiping: true
   });
 })(jQuery); //button Up
 
@@ -81,3 +83,4 @@ function imgchart() {
   i %= chats.length;
   image.src = chats[i];
 }
+

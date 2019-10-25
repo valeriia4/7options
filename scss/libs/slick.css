@@ -108,11 +108,12 @@
 }
 .slick-vertical .slick-slide
 {
-    display: block;
+    display: flex;
 
-    height: auto;
+    height: 535px;
 
     border: 1px solid transparent;
+    padding: 10px 0;
 }
 .slick-arrow.slick-hidden {
     display: none;
